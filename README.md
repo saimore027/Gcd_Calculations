@@ -1,1 +1,1 @@
-# Gcd_Calculations
+GCD=Greatest Common Divisior
